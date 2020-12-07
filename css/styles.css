@@ -73,6 +73,7 @@ body {
 }
 
 .card .name {
+    font-size: 22px;
     font-weight: 700;
     margin-top: 70px;
     text-align: center;
@@ -81,13 +82,13 @@ body {
 .card .city {
     color: hsl(0, 0%, 59%);
     text-align: center;
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 10px;
 }
 
 .name span {
     color: hsl(0, 0%, 59%);
-    font-size: 16px;
+    font-size: 18px;
     font-weight: 400;
     margin-left: 5px;
 }
