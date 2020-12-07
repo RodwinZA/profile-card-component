@@ -72,7 +72,7 @@ body {
 }
 
 .card .name {
-    font-size: 22px;
+    font-size: 20px;
     font-weight: 700;
     margin-top: 70px;
     text-align: center;
@@ -114,13 +114,13 @@ hr {
 
 .stats-name {
     color: hsl(0, 0%, 59%);
-    font-size: 12px;
+    font-size: 10px;
     letter-spacing: 2px;
 }
 
 .followers,
 .likes,
 .photos {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
 }
