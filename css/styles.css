@@ -82,7 +82,7 @@ body {
     color: hsl(0, 0%, 59%);
     text-align: center;
     font-size: 14px;
-    margin-top: 5px;
+    margin-top: 10px;
 }
 
 .name span {
@@ -114,12 +114,13 @@ hr {
 
 .stats-name {
     color: hsl(0, 0%, 59%);
-    font-size: 10px;
+    font-size: 12px;
     letter-spacing: 2px;
 }
 
 .followers,
 .likes,
 .photos {
+    font-size: 20px;
     text-align: center;
 }
