@@ -45,7 +45,7 @@ body {
     flex-direction: column;
     background-color: #ffffff;
     border-radius: 15px;
-    height: 60vh;
+    height: 375px;
     width: 95%;
     max-width: 350px;
     position: relative;
@@ -53,6 +53,7 @@ body {
 }
 
 .bg-pattern-card {
+    background: url(../images/bg-pattern-card.svg);
     border-top-left-radius: 12px;
     border-top-right-radius: 12px;
     width: 100%;
