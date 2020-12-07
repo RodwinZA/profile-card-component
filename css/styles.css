@@ -23,12 +23,11 @@ body {
 }
 .bg-pattern-top {
     position: absolute;
-    background: url(../images/bg-pattern-top.svg) no-repeat;
+    background: url(../images/bg-pattern-top.svg) no-repeat bottom right;
     height: 50%;
     width: 50%;
     top: 0;
     left: 0;
-    transform: rotate(180deg);
 }
 
 .bg-pattern-bottom {
